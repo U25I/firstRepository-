@@ -1,2 +1,2 @@
 # firstRepository-
-first Project
+This is a cat shop project
